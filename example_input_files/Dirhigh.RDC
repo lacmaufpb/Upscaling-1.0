@@ -1,0 +1,26 @@
+file format : IDRISI Raster A.1
+file title  : 
+data type   : integer
+file type   : binary
+columns     : 7000
+rows        : 6000
+ref. system : utm24-s
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : 378460.5640846
+max. X      : 385460.5640846
+min. Y      : 9059547.8384274
+max. Y      : 9065547.8384274
+pos'n error : 0.0000000
+resolution  : 1.0000000
+min. value  : 1
+max. value  : 128
+display min : 1
+display max : 128
+value units : unspecified
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by the WINDOW module with the command line: 
+lineage     : D:\OneDrive\0_ARP_drive\UFPB\2_PPGEUA\17_Alice\DirFluxo4_intel_utm_LL\DIRALTA.rst*D:\OneDrive\0_ARP_drive\UFPB\2_PPGEUA\17_Alice\DirFluxo4_intel_utm_LL_GIT\Dirhigh_.rst*1*0*0*6999*5999*0
