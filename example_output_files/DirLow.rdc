@@ -1,0 +1,25 @@
+file format : IDRISI Raster A.1
+file title  :  
+data type   : integer
+file type   : binary
+columns     : 26
+rows        : 23
+ref. system : utm-24s
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : 386320.5625000
+max. X      : 388920.5625000
+min. Y      : 9062029.0000000
+max. Y      : 9064329.0000000
+pos'n error : unknown
+resolution  : 100.0000000
+min. value  : 1.0000000
+max. value  : 128.0000000
+display min : 1.0000000
+display max : 128.0000000
+value units : unspecified
+value error : unknown
+flag value  : 0
+flag def'n  : none
+legend cats : 0
+lineage     :                                        This file was created automatically by an ARP FORTRAN routine
