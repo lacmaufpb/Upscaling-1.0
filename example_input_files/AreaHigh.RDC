@@ -1,0 +1,26 @@
+file format : IDRISI Raster A.1
+file title  : 
+data type   : real
+file type   : binary
+columns     : 2600
+rows        : 2300
+ref. system : utm-24s
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : 386320.5640846
+max. X      : 388920.5640846
+min. Y      : 9062028.8384274
+max. Y      : 9064328.8384274
+pos'n error : 0.0000000
+resolution  : 1.0000000
+min. value  : 0.0000010
+max. value  : 3.3296800
+display min : 0.0000010
+display max : 3.3296800
+value units : unspecified
+value error : unknown
+flag value  : -99999.0000000
+flag def'n  : missing data
+legend cats : 0
+lineage     : This file was created by the WINDOW module with the command line: 
+lineage     : D:\OneDrive\0_ARP_drive\publicacoes\2023\upscaling_LIDAR\GIT\DirFluxo4_intel_utm_LL_menosmem_GIT\AreaHigh_.rst*D:\OneDrive\0_ARP_drive\publicacoes\2023\upscaling_LIDAR\GIT\DirFluxo4_intel_utm_LL_menosmem_GIT\AreaHigh.rst*1*0*0*2599*2299*0
