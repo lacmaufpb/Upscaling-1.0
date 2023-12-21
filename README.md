@@ -17,7 +17,7 @@ SOFTWARE ESPECIFICATIONS
 -------------
 **PROGRAM LANGUAGE:**	Fortran 90 
 
-**SOFTWARE REQUIREMENTS:**	Fortran 90 compiler, Windows 
+**SOFTWARE REQUIREMENTS:**	`Fortran 90 compiler`, Windows 
 
 **PROGRAM SIZE:**	36.2 Kb
  
@@ -54,3 +54,13 @@ The flow direction codes of input and output files could also be reclassified fr
 The algorithm produces the following output file:
 * **DIRLOW (.rst;.rdc):** Low-resolution flow directions. Raster file, Idrisi/TerrSet format, integer/binary. The same flow direction code of the DIRHIGH file is followed: 1 (northeast), 2 (east), 4 (southeast), 8 (south), 16 (southwest), 32 (west), 64 (northwest), and 128 (north).
 The name of the output file is defined along the code and could be changed with caution.
+
+**Input and output files for testing the code are also available in this GIT:**
+
+[example_input_files/](example_input_files)
+
+	https://github.com/lacmaufpb/Upscaling-1.0/example_input_files/
+
+[example_output_files/](example_output_files)
+
+	https://github.com/lacmaufpb/Upscaling-1.0/example_output_files/
