@@ -7,18 +7,20 @@ CONTACT
 
 adrianorpaz@ct.ufpb.br
  
-+55 83 3216 7355
++55 83 3216 7355 
 
 HARDWARE REQUIREMENTS
 -------------
-Devices that run Windows 10 for desktop editions (a 1GHz or faster processor) 
+Devices that run Windows 10 for desktop editions (a 1GHz or faster processor)
 
+SOFTWARE ESPECIFICATIONS
+-------------
 **PROGRAM LANGUAGE:**	Fortran 90 
 
 **SOFTWARE REQUIREMENTS:**	Fortran 90 compiler, Windows 
 
-**PROGRAM SIZE:**	36.2 Kb 
-
+**PROGRAM SIZE:**	36.2 Kb
+ 
 AVAILABILITY
 -------------
 The source codes are available for download at the link: 
